@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['write_110',['write',['../classSerial__TC.html#a829193a8c17b3b82d265eab2068fb1df',1,'Serial_TC::write(byte aByte)'],['../classSerial__TC.html#a1878dadec4dfcf21bed9eee5f51f20d0',1,'Serial_TC::write(char arr[], int anInt)']]]
+  ['now_212',['now',['../classDateTime__TC.html#ae1b05da93afda7c496482990198b14e1',1,'DateTime_TC']]]
 ];

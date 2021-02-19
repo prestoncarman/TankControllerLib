@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['liquidcrystal_5ftc_94',['LiquidCrystal_TC',['../classLiquidCrystal__TC.html#a127762ac0dd655d2299d97c5ef296911',1,'LiquidCrystal_TC']]],
-  ['loop_95',['loop',['../classTankControllerLib.html#a231e4bec233ac32a49745f4af710ffe3',1,'TankControllerLib']]]
+  ['ethernet_5ftc_195',['Ethernet_TC',['../classEthernet__TC.html#a7b262019ad409e1f0679a2c953622e30',1,'Ethernet_TC']]],
+  ['ethernetserver_5ftc_196',['EthernetServer_TC',['../classEthernetServer__TC.html#ad82ccc8145529501df4a6995f1448bab',1,'EthernetServer_TC']]]
 ];

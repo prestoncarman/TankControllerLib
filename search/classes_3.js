@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['serial_5ftc_69',['Serial_TC',['../classSerial__TC.html',1,'']]],
-  ['setphsetpoint_70',['SetPHSetPoint',['../classSetPHSetPoint.html',1,'']]]
+  ['ethernet_5ftc_141',['Ethernet_TC',['../classEthernet__TC.html',1,'']]],
+  ['ethernetserver_5ftc_142',['EthernetServer_TC',['../classEthernetServer__TC.html',1,'']]]
 ];
